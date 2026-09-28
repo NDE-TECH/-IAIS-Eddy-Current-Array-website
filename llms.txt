@@ -1,0 +1,29 @@
+# IAIS Eddy Current Array Inspection
+
+Informational site for IAIS India and IAIS UAE ECA enquiries. Application feasibility, equipment and standards are reviewed per project; listed industry uses do not assert IAIS project history.
+
+- https://eddycurrentarray.com/
+- https://eddycurrentarray.com/about/
+- https://eddycurrentarray.com/services/
+- https://eddycurrentarray.com/services/surface-inspection/
+- https://eddycurrentarray.com/services/tube-inspection/
+- https://eddycurrentarray.com/applications/
+- https://eddycurrentarray.com/quality-and-approach/
+- https://eddycurrentarray.com/contact/
+- https://eddycurrentarray.com/applications/weld-inspection/
+- https://eddycurrentarray.com/applications/heat-exchanger-tubes/
+- https://eddycurrentarray.com/applications/structural-surfaces/
+- https://eddycurrentarray.com/applications/tube-ends/
+- https://eddycurrentarray.com/applications/condenser-tubes/
+- https://eddycurrentarray.com/applications/feedwater-heater-tubes/
+- https://eddycurrentarray.com/applications/steam-generator-tubes/
+- https://eddycurrentarray.com/applications/air-cooler-tubes/
+- https://eddycurrentarray.com/applications/process-heat-exchangers/
+- https://eddycurrentarray.com/applications/pipeline-welds/
+- https://eddycurrentarray.com/applications/vessel-tank-surfaces/
+- https://eddycurrentarray.com/applications/turbine-components/
+
+## Discovery notes
+- Canonical site: https://eddycurrentarray.com/
+- Content format: static HTML pages with page-level metadata, JSON-LD, Open Graph and Twitter cards.
+- Main topics: Eddy Current Array inspection, surface inspection, tube inspection, applications, quality approach and contact details.
